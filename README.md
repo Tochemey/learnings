@@ -2,6 +2,8 @@
 
 A personal knowledge base: notes, tips, and command references for software development and operations.
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Tochemey/learnings/commitlint.yaml)
+
 ## Contents
 
 | Section                 | Description                                                                |
