@@ -364,3 +364,4 @@ kubectl get secret my-secret -n namespace -o jsonpath='{.data.password}' | base6
 
 - [Docker](./docker.md) — image and container commands
 - [Tips](./tips.md) — production survival guide (probes, rollbacks, observability)
+- [Network Policies](https://github.com/Tochemey/kubernetes-network-policy-recipes) - kubernetes network policies

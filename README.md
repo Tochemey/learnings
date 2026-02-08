@@ -6,9 +6,14 @@ A personal knowledge base: notes, tips, and command references for software deve
 
 ## Contents
 
-| Section                 | Description                                                                |
-| ----------------------- | -------------------------------------------------------------------------- |
-| [**DevOps**](./devops/) | Production tips, Docker and Kubernetes commands, and operational reference |
+| Section                                                                                            | Description                                                                |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [**DevOps**](./devops/)                                                                            | Production tips, Docker and Kubernetes commands, and operational reference |
+| [System Design](https://github.com/Tochemey/system-design-primer)                                  | System Design and Architecture                                             |
+| [Algorithms](https://github.com/Tochemey/coding-interview-university)                              | Data Structure and Algorithms                                              |
+| [ebpf](https://github.com/Tochemey/bpf-developer-tutorial/tree/main)                               | eBPF tutorials                                                             |
+| [Docker Youtube Series](https://github.com/Tochemey/docker-development-youtube-series/tree/master) | Docker Youtube Series                                                      |
+| [AI for Beginners](https://github.com/Tochemey/ai-agents-for-beginners)                            | AI for beginners                                                           |
 
 ### DevOps
 
