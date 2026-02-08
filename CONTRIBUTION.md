@@ -1,0 +1,1 @@
+We welcome contributions! Whether you're fixing a bug, adding a new feature, or improving documentation, your help is appreciated. This project adheres to Conventional Commits to standardize commit messages.
